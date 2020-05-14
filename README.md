@@ -16,7 +16,7 @@ Wild Nature Trip is App UI that can help travellers to look for exciting places 
 
 UI designed by <a class="github-button" href="https://www.instagram.com/michaelf.design/">Michaelf.design</a>
 
-<a href="https://www.instagram.com/p/B_Ky8yBAb1b/">
+<a href="https://www.instagram.com/p/B_fYhUWA6rw/">
 <img src="https://github.com/neon97/Wild_Nature_Trip/blob/master/Screenshots/Downhill%20location.png?raw=true"  width="400"
      height="400">
 </img>
@@ -25,15 +25,15 @@ UI designed by <a class="github-button" href="https://www.instagram.com/michaelf
 
 Some Screenshots:
 
-<a href="https://youtu.be/kd1CLYLymbI">
-<img src="https://github.com/neon97/Wild_Nature_Trip/blob/master/Screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-05-13%20at%2020.59.02.png?raw=true"  width="300"
-     height="300">
+<a href="https://www.youtube.com/watch?v=kd1CLYLymbI&feature=youtu.be">
+<img src="https://github.com/neon97/Wild_Nature_Trip/blob/master/Screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-05-13%20at%2020.59.02.png?raw=true"  width="200"
+     height="500">
 </img>
 </a>
 
-<a href="https://youtu.be/kd1CLYLymbI">
-<img src="https://github.com/neon97/Wild_Nature_Trip/blob/master/Screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-05-13%20at%2020.59.12.png?raw=true"  width="300"
-     height="300">
+<a href="https://www.youtube.com/watch?v=2BX_MEqsNdQ&t=599s">
+<img src="https://github.com/neon97/Wild_Nature_Trip/blob/master/Screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-05-13%20at%2020.59.12.png?raw=true"  width="200"
+     height="200">
 </img>
 </a>
 
