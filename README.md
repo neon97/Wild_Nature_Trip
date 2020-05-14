@@ -8,7 +8,7 @@ Wild Nature Trip is App UI that can help travellers to look for exciting places 
 
 <h3>Check out for full Flutter UI design video on <a class="github-button" href="https://www.youtube.com/channel/UCRhmjCnvOgULTzEFe-Jpfdw">Youtube</a></h3> 
 <a href="https://youtu.be/38nXDn9HebA">
-<img src="https://github.com/neon97/Wild_Nature_Trip/blob/master/Screenshots/Downhill%20location.png?raw=true"  width="500"
+<img src="https://github.com/neon97/Wild_Nature_Trip/blob/master/Screenshots/World%20nature%20Trip.png?raw=true"  width="500"
      height="300">
 </img>
 </a>
@@ -17,7 +17,7 @@ Wild Nature Trip is App UI that can help travellers to look for exciting places 
 UI designed by <a class="github-button" href="https://www.instagram.com/michaelf.design/">Michaelf.design</a>
 
 <a href="https://www.instagram.com/p/B_Ky8yBAb1b/">
-<img src="https://github.com/neon97/Adopt-Animals-Design-Flutter/blob/master/screenshots/design.png?raw=true"  width="400"
+<img src="https://github.com/neon97/Wild_Nature_Trip/blob/master/Screenshots/Downhill%20location.png?raw=true"  width="400"
      height="400">
 </img>
 </a>
@@ -26,13 +26,13 @@ UI designed by <a class="github-button" href="https://www.instagram.com/michaelf
 Some Screenshots:
 
 <a href="https://youtu.be/kd1CLYLymbI">
-<img src="https://github.com/neon97/Adopt-Animals-Design-Flutter/blob/master/screenshots/2page.png?raw=true"  width="300"
+<img src="https://github.com/neon97/Wild_Nature_Trip/blob/master/Screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-05-13%20at%2020.59.02.png?raw=true"  width="300"
      height="300">
 </img>
 </a>
 
 <a href="https://youtu.be/kd1CLYLymbI">
-<img src="https://github.com/neon97/Adopt-Animals-Design-Flutter/blob/master/screenshots/1page.png?raw=true"  width="300"
+<img src="https://github.com/neon97/Wild_Nature_Trip/blob/master/Screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-05-13%20at%2020.59.12.png?raw=true"  width="300"
      height="300">
 </img>
 </a>
