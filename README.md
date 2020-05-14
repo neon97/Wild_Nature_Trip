@@ -8,7 +8,7 @@ Wild Nature Trip is App UI that can help travellers to look for exciting places 
 
 <h3>Check out for full Flutter UI design video on <a class="github-button" href="https://www.youtube.com/channel/UCRhmjCnvOgULTzEFe-Jpfdw">Youtube</a></h3> 
 <a href="https://youtu.be/38nXDn9HebA">
-<img src="https://github.com/neon97/Adopt-Animals-Design-Flutter/blob/master/screenshots/thumbnail.png?raw=true"  width="500"
+<img src="https://github.com/neon97/Wild_Nature_Trip/blob/master/Screenshots/Downhill%20location.png?raw=true"  width="500"
      height="300">
 </img>
 </a>
